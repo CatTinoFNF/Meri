@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "jhonnportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what why are you here i thought i killed you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "meri",
+			"boxState": "normal",
+			"expression": "hii",
+			"text": "Your aim is actually shit!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "meri",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Now you're coming with me so we can go get married!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opheebop",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Now hold up."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opheebop",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We are going to have a rap battle and if you win you get to keep ron."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "meriangry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jhonnportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i didn't agree to that..."
+		}
+	]
+}

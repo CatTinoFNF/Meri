@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.85,
+		"stage": "yellow",
+		"player1": "meri-player",
+		"player2": "best-opheebop",
+		"player3": null,
+		"events": [
+			[
+				138666.666666667,
+				[
+					[
+						"Change Character",
+						"1",
+						"best-opheebop-jhonn-sing"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "no_splash",
+		"validScore": false,
+		"gfVersion": "jhonn-trash",
+		"bpm": 180,
+		"arrowSkin": "ronsip",
+		"needsVoices": true,
+		"song": "yellow"
+	}
+}

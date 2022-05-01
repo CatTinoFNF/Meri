@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "opheebop",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok ron let's get out of here"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "waaaa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wait, can we do one more song "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opheebop",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We only agreed on one rap battle..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "meriangry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "STFU WE ARE DOING ANOTHER ONE!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opheebop",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok..."
+		}
+	]
+}

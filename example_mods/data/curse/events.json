@@ -1,0 +1,36 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "hell",
+		"player1": "jhonn",
+		"player2": "meri-evil",
+		"player3": null,
+		"events": [
+			[
+				74600,
+				[
+					[
+						"Play Animation",
+						"kill",
+						"bf"
+					],
+					[
+						"Alt Idle Animation",
+						"Dad",
+						"-alt"
+					]
+				],
+				null,
+				""
+			]
+		],
+		"notes": [],
+		"splashSkin": "no_splash",
+		"validScore": false,
+		"gfVersion": "bop-scared",
+		"bpm": 150,
+		"arrowSkin": "ronsip",
+		"needsVoices": true,
+		"song": "curse"
+	}
+}

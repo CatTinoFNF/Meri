@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "ayothepizzahere",
+		"player1": "meri-player",
+		"player2": "bop-opponent",
+		"player3": null,
+		"events": [],
+		"notes": [
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			}
+		],
+		"splashSkin": "no_splash",
+		"validScore": false,
+		"gfVersion": "jhonn-beat",
+		"bpm": 150,
+		"arrowSkin": "ronsip",
+		"needsVoices": true,
+		"song": "stfu"
+	}
+}

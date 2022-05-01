@@ -1,0 +1,144 @@
+{
+	"dialogue": [
+		{
+			"expression": "hii",
+			"text": "OMG RON I FINALLY FOUND YOU",
+			"boxState": "angry",
+			"portrait": "meri",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "I am your biggest fangirl",
+			"boxState": "normal",
+			"portrait": "meri",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "probably the first and only!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "meri"
+		},
+		{
+			"expression": "happy",
+			"text": "I am here to ask you to be my boyfriend because I think you are HOT",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "meri"
+		},
+		{
+			"expression": "talk",
+			"text": "shit i dont got gun :(",
+			"boxState": "normal",
+			"portrait": "jhonnportrait",
+			"speed": 0.025
+		},
+		{
+			"expression": "talk",
+			"text": "uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+			"boxState": "normal",
+			"speed": 0.02,
+			"portrait": "jhonnportrait"
+		},
+		{
+			"expression": "talk",
+			"text": "who are you",
+			"boxState": "normal",
+			"portrait": "jhonnportrait",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "im Meri!",
+			"boxState": "normal",
+			"portrait": "meri",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "i found your IP address",
+			"boxState": "normal",
+			"portrait": "meri",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "shut tghe up",
+			"boxState": "normal",
+			"portrait": "jhonnportrait",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "1762.928.019",
+			"boxState": "normal",
+			"portrait": "meri",
+			"speed": 0.05
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jhonnportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh nuo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bop",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Who is this lmao"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "meriangry",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Who the fuck are you??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hug",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "She's my friend"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "meriangry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ARE YOU TRYING TO STEAL RON FROM ME?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bop",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No..?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Meriangry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "meri",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "rap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jhonnportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		}
+	]
+}

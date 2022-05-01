@@ -1,0 +1,44 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "something",
+		"player1": "jhonn",
+		"player2": "meri",
+		"player3": null,
+		"events": [
+			[
+				68558.8235294117,
+				[
+					[
+						"Play Animation",
+						"kiss",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				69176.4705882352,
+				[
+					[
+						"Play Animation",
+						"miss",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "no_splash",
+		"validScore": false,
+		"gfVersion": "bop",
+		"bpm": 170,
+		"arrowSkin": "ronsip",
+		"needsVoices": true,
+		"song": "piss-off"
+	}
+}

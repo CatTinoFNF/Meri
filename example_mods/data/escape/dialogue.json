@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "opheebop",
+			"boxState": "normal",
+			"expression": "talking",
+			"text": "haha you lost loser"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "meriangry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ugh!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jhonnportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "please leave now"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "meri",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "It's not over yet my sweet Ron"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jhonnportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "meriangry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*turns into a demon thing*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jhonnportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh"
+		}
+	]
+}

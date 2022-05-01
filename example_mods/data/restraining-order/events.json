@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "ayothepizzahere",
+		"player1": "meri-player",
+		"player2": "bop-opponent",
+		"player3": null,
+		"events": [
+			[
+				43885.7142857143,
+				[
+					[
+						"Change Character",
+						"1",
+						"bop-jhonn-sing"
+					]
+				]
+			],
+			[
+				44914.2857142857,
+				[
+					[
+						"Play Animation",
+						"ugh",
+						"gf"
+					]
+				]
+			],
+			[
+				65828.5714285714,
+				[
+					[
+						"Change Character",
+						"1",
+						"bop-opponent"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "no_splash",
+		"validScore": false,
+		"gfVersion": "jhonn-beat",
+		"bpm": 175,
+		"arrowSkin": "ronsip",
+		"needsVoices": true,
+		"song": "restraining-order"
+	}
+}

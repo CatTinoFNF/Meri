@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"expression": "evil",
+			"text": "YOU WILL DATE ME!!!!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "meri"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jhonnportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "meri",
+			"boxState": "normal",
+			"expression": "evil",
+			"text": "YOU WILL BE WITH ME FOR LIFE"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jhonnportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Burp"
+		},
+		{
+			"expression": "talk",
+			"text": "wemen, i dont even look that good.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jhonnportrait"
+		},
+		{
+			"expression": "evil",
+			"text": "doesn't matter",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "meri"
+		},
+		{
+			"expression": "talk",
+			"text": "ok",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jhonnportrait"
+		},
+		{
+			"expression": "talk",
+			"text": "rap battle",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jhonnportrait"
+		},
+		{
+			"expression": "talk",
+			"text": "if you lose",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jhonnportrait"
+		},
+		{
+			"expression": "talk",
+			"text": "you leave me alone and forget my ip address",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jhonnportrait"
+		},
+		{
+			"expression": "evil",
+			"text": "I am living inside your walls",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "meri"
+		}
+	]
+}
