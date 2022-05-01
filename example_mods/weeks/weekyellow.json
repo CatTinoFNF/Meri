@@ -1,0 +1,31 @@
+{
+	"storyName": "yellow B)",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "deads",
+	"weekBefore": "week2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"yellow",
+			"fart",
+			[
+				255,
+				185,
+				76
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "fart"
+}

@@ -6,3 +6,8 @@ This is not about your Song's music (Instrumental or Voices),
 if you want to implement Song Inst/Voices, go to "mods/songs/" folder
 
 This is simply for being used with Lua's "playMusic".
+
+
+
+
+hi guys its me unusual yikes from youtube channel, i am here to say ass :D
