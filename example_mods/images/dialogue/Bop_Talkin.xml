@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bop_Talkin.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="opheebop demon0000" x="0" y="0" width="327" height="421" frameX="-7" frameY="-12" frameWidth="340" frameHeight="433"/>
+	<SubTexture name="opheebop demon0001" x="0" y="0" width="327" height="421" frameX="-7" frameY="-12" frameWidth="340" frameHeight="433"/>
+	<SubTexture name="opheebop demon0002" x="327" y="0" width="317" height="433" frameX="-12" frameY="0" frameWidth="340" frameHeight="433"/>
+	<SubTexture name="opheebop demon0003" x="327" y="0" width="317" height="433" frameX="-12" frameY="0" frameWidth="340" frameHeight="433"/>
+	<SubTexture name="opheebop demon0004" x="644" y="0" width="340" height="408" frameX="0" frameY="-25" frameWidth="340" frameHeight="433"/>
+	<SubTexture name="opheebop demon0005" x="644" y="0" width="340" height="408" frameX="0" frameY="-25" frameWidth="340" frameHeight="433"/>
+	<SubTexture name="opheebop demon0006" x="0" y="433" width="330" height="419" frameX="-5" frameY="-14" frameWidth="340" frameHeight="433"/>
+	<SubTexture name="opheebop demon0007" x="0" y="433" width="330" height="419" frameX="-5" frameY="-14" frameWidth="340" frameHeight="433"/>
+</TextureAtlas>

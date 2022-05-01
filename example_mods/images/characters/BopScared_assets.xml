@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BopScared_assets.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Dancing Beat scary0000" x="0" y="0" width="321" height="394" frameX="-1" frameY="0" frameWidth="322" frameHeight="394"/>
+	<SubTexture name="GF Dancing Beat scary0001" x="0" y="0" width="321" height="394" frameX="-1" frameY="0" frameWidth="322" frameHeight="394"/>
+	<SubTexture name="GF Dancing Beat scary0002" x="321" y="0" width="321" height="394" frameX="0" frameY="0" frameWidth="322" frameHeight="394"/>
+	<SubTexture name="GF Dancing Beat scary0003" x="321" y="0" width="321" height="394" frameX="0" frameY="0" frameWidth="322" frameHeight="394"/>
+	<SubTexture name="GF Dancing Beat scary0004" x="642" y="0" width="319" height="392" frameX="0" frameY="-2" frameWidth="322" frameHeight="394"/>
+	<SubTexture name="GF Dancing Beat scary0005" x="642" y="0" width="319" height="392" frameX="0" frameY="-2" frameWidth="322" frameHeight="394"/>
+	<SubTexture name="GF Dancing Beat scary0006" x="0" y="0" width="321" height="394" frameX="-1" frameY="0" frameWidth="322" frameHeight="394"/>
+	<SubTexture name="GF Dancing Beat scary0007" x="0" y="0" width="321" height="394" frameX="-1" frameY="0" frameWidth="322" frameHeight="394"/>
+	<SubTexture name="GF Dancing Beat scary0008" x="321" y="0" width="321" height="394" frameX="0" frameY="0" frameWidth="322" frameHeight="394"/>
+	<SubTexture name="GF Dancing Beat scary0009" x="321" y="0" width="321" height="394" frameX="0" frameY="0" frameWidth="322" frameHeight="394"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="YellowMeri_assets.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Yellow Meri0000" x="0" y="0" width="433" height="566" frameX="0" frameY="-30" frameWidth="433" frameHeight="599"/>
+	<SubTexture name="Yellow Meri0001" x="0" y="0" width="433" height="566" frameX="0" frameY="-30" frameWidth="433" frameHeight="599"/>
+	<SubTexture name="Yellow Meri0002" x="433" y="0" width="386" height="591" frameX="-15" frameY="-6" frameWidth="433" frameHeight="599"/>
+	<SubTexture name="Yellow Meri0003" x="433" y="0" width="386" height="591" frameX="-15" frameY="-6" frameWidth="433" frameHeight="599"/>
+	<SubTexture name="Yellow Meri0004" x="819" y="0" width="402" height="596" frameX="-21" frameY="-1" frameWidth="433" frameHeight="599"/>
+	<SubTexture name="Yellow Meri0005" x="819" y="0" width="402" height="596" frameX="-21" frameY="-1" frameWidth="433" frameHeight="599"/>
+	<SubTexture name="Yellow Meri0006" x="1221" y="0" width="397" height="599" frameX="-22" frameY="0" frameWidth="433" frameHeight="599"/>
+	<SubTexture name="Yellow Meri0007" x="1221" y="0" width="397" height="599" frameX="-22" frameY="0" frameWidth="433" frameHeight="599"/>
+	<SubTexture name="Yellow Meri0008" x="1618" y="0" width="397" height="599" frameX="-22" frameY="0" frameWidth="433" frameHeight="599"/>
+	<SubTexture name="Yellow Meri0009" x="1618" y="0" width="397" height="599" frameX="-22" frameY="0" frameWidth="433" frameHeight="599"/>
+	<SubTexture name="Yellow Meri0010" x="1618" y="0" width="397" height="599" frameX="-22" frameY="0" frameWidth="433" frameHeight="599"/>
+	<SubTexture name="Yellow Meri0011" x="1618" y="0" width="397" height="599" frameX="-22" frameY="0" frameWidth="433" frameHeight="599"/>
+	<SubTexture name="Yellow Meri0012" x="1618" y="0" width="397" height="599" frameX="-22" frameY="0" frameWidth="433" frameHeight="599"/>
+	<SubTexture name="Yellow Meri0013" x="1618" y="0" width="397" height="599" frameX="-22" frameY="0" frameWidth="433" frameHeight="599"/>
+	<SubTexture name="Yellow Meri0014" x="1618" y="0" width="397" height="599" frameX="-22" frameY="0" frameWidth="433" frameHeight="599"/>
+	<SubTexture name="Yellow Meri Down0000" x="2015" y="0" width="450" height="512" frameX="0" frameY="-9" frameWidth="455" frameHeight="521"/>
+	<SubTexture name="Yellow Meri Down0001" x="2015" y="0" width="450" height="512" frameX="0" frameY="-9" frameWidth="455" frameHeight="521"/>
+	<SubTexture name="Yellow Meri Down0002" x="2465" y="0" width="448" height="521" frameX="-7" frameY="0" frameWidth="455" frameHeight="521"/>
+	<SubTexture name="Yellow Meri Down0003" x="2465" y="0" width="448" height="521" frameX="-7" frameY="0" frameWidth="455" frameHeight="521"/>
+	<SubTexture name="Yellow Meri Down0004" x="2913" y="0" width="448" height="521" frameX="-7" frameY="0" frameWidth="455" frameHeight="521"/>
+	<SubTexture name="Yellow Meri Down0005" x="2913" y="0" width="448" height="521" frameX="-7" frameY="0" frameWidth="455" frameHeight="521"/>
+	<SubTexture name="Yellow Meri Down0006" x="3361" y="0" width="448" height="521" frameX="-7" frameY="0" frameWidth="455" frameHeight="521"/>
+	<SubTexture name="Yellow Meri Down0007" x="3361" y="0" width="448" height="521" frameX="-7" frameY="0" frameWidth="455" frameHeight="521"/>
+	<SubTexture name="Yellow Meri Down0008" x="3361" y="0" width="448" height="521" frameX="-7" frameY="0" frameWidth="455" frameHeight="521"/>
+	<SubTexture name="Yellow Meri Down0009" x="3361" y="0" width="448" height="521" frameX="-7" frameY="0" frameWidth="455" frameHeight="521"/>
+	<SubTexture name="Yellow Meri Down0010" x="3361" y="0" width="448" height="521" frameX="-7" frameY="0" frameWidth="455" frameHeight="521"/>
+	<SubTexture name="Yellow Meri Down0011" x="3361" y="0" width="448" height="521" frameX="-7" frameY="0" frameWidth="455" frameHeight="521"/>
+	<SubTexture name="Yellow Meri Down0012" x="3361" y="0" width="448" height="521" frameX="-7" frameY="0" frameWidth="455" frameHeight="521"/>
+	<SubTexture name="Yellow Meri Down0013" x="3361" y="0" width="448" height="521" frameX="-7" frameY="0" frameWidth="455" frameHeight="521"/>
+	<SubTexture name="Yellow Meri Down0014" x="3361" y="0" width="448" height="521" frameX="-7" frameY="0" frameWidth="455" frameHeight="521"/>
+	<SubTexture name="Yellow Meri Left0000" x="0" y="599" width="444" height="607"/>
+	<SubTexture name="Yellow Meri Left0001" x="0" y="599" width="444" height="607"/>
+	<SubTexture name="Yellow Meri Left0002" x="444" y="599" width="417" height="597" frameX="-3" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="Yellow Meri Left0003" x="444" y="599" width="417" height="597" frameX="-3" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="Yellow Meri Left0004" x="861" y="599" width="417" height="597" frameX="-3" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="Yellow Meri Left0005" x="861" y="599" width="417" height="597" frameX="-3" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="Yellow Meri Left0006" x="1278" y="599" width="417" height="597" frameX="-3" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="Yellow Meri Left0007" x="1278" y="599" width="417" height="597" frameX="-3" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="Yellow Meri Left0008" x="1695" y="599" width="417" height="597" frameX="-3" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="Yellow Meri Left0009" x="1695" y="599" width="417" height="597" frameX="-3" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="Yellow Meri Left0010" x="1695" y="599" width="417" height="597" frameX="-3" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="Yellow Meri Left0011" x="1695" y="599" width="417" height="597" frameX="-3" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="Yellow Meri Left0012" x="1695" y="599" width="417" height="597" frameX="-3" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="Yellow Meri Left0013" x="1695" y="599" width="417" height="597" frameX="-3" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="Yellow Meri Right0000" x="2112" y="599" width="371" height="603" frameX="0" frameY="0" frameWidth="413" frameHeight="603"/>
+	<SubTexture name="Yellow Meri Right0001" x="2112" y="599" width="371" height="603" frameX="0" frameY="0" frameWidth="413" frameHeight="603"/>
+	<SubTexture name="Yellow Meri Right0002" x="2483" y="599" width="383" height="598" frameX="-4" frameY="-5" frameWidth="413" frameHeight="603"/>
+	<SubTexture name="Yellow Meri Right0003" x="2483" y="599" width="383" height="598" frameX="-4" frameY="-5" frameWidth="413" frameHeight="603"/>
+	<SubTexture name="Yellow Meri Right0004" x="2866" y="599" width="409" height="598" frameX="-4" frameY="-5" frameWidth="413" frameHeight="603"/>
+	<SubTexture name="Yellow Meri Right0005" x="2866" y="599" width="409" height="598" frameX="-4" frameY="-5" frameWidth="413" frameHeight="603"/>
+	<SubTexture name="Yellow Meri Right0006" x="3275" y="599" width="398" height="598" frameX="-4" frameY="-5" frameWidth="413" frameHeight="603"/>
+	<SubTexture name="Yellow Meri Right0007" x="3275" y="599" width="398" height="598" frameX="-4" frameY="-5" frameWidth="413" frameHeight="603"/>
+	<SubTexture name="Yellow Meri Right0008" x="3673" y="599" width="395" height="598" frameX="-4" frameY="-5" frameWidth="413" frameHeight="603"/>
+	<SubTexture name="Yellow Meri Right0009" x="3673" y="599" width="395" height="598" frameX="-4" frameY="-5" frameWidth="413" frameHeight="603"/>
+	<SubTexture name="Yellow Meri Right0010" x="3673" y="599" width="395" height="598" frameX="-4" frameY="-5" frameWidth="413" frameHeight="603"/>
+	<SubTexture name="Yellow Meri Right0011" x="3673" y="599" width="395" height="598" frameX="-4" frameY="-5" frameWidth="413" frameHeight="603"/>
+	<SubTexture name="Yellow Meri Right0012" x="3673" y="599" width="395" height="598" frameX="-4" frameY="-5" frameWidth="413" frameHeight="603"/>
+	<SubTexture name="Yellow Meri Right0013" x="3673" y="599" width="395" height="598" frameX="-4" frameY="-5" frameWidth="413" frameHeight="603"/>
+	<SubTexture name="Yellow Meri Up0000" x="0" y="1206" width="410" height="628" frameX="-1" frameY="0" frameWidth="411" frameHeight="628"/>
+	<SubTexture name="Yellow Meri Up0001" x="0" y="1206" width="410" height="628" frameX="-1" frameY="0" frameWidth="411" frameHeight="628"/>
+	<SubTexture name="Yellow Meri Up0002" x="410" y="1206" width="374" height="620" frameX="0" frameY="-8" frameWidth="411" frameHeight="628"/>
+	<SubTexture name="Yellow Meri Up0003" x="410" y="1206" width="374" height="620" frameX="0" frameY="-8" frameWidth="411" frameHeight="628"/>
+	<SubTexture name="Yellow Meri Up0004" x="784" y="1206" width="376" height="620" frameX="0" frameY="-8" frameWidth="411" frameHeight="628"/>
+	<SubTexture name="Yellow Meri Up0005" x="784" y="1206" width="376" height="620" frameX="0" frameY="-8" frameWidth="411" frameHeight="628"/>
+	<SubTexture name="Yellow Meri Up0006" x="1160" y="1206" width="374" height="620" frameX="0" frameY="-8" frameWidth="411" frameHeight="628"/>
+	<SubTexture name="Yellow Meri Up0007" x="1160" y="1206" width="374" height="620" frameX="0" frameY="-8" frameWidth="411" frameHeight="628"/>
+	<SubTexture name="Yellow Meri Up0008" x="1534" y="1206" width="375" height="620" frameX="0" frameY="-8" frameWidth="411" frameHeight="628"/>
+	<SubTexture name="Yellow Meri Up0009" x="1534" y="1206" width="375" height="620" frameX="0" frameY="-8" frameWidth="411" frameHeight="628"/>
+	<SubTexture name="Yellow Meri Up0010" x="1534" y="1206" width="375" height="620" frameX="0" frameY="-8" frameWidth="411" frameHeight="628"/>
+	<SubTexture name="Yellow Meri Up0011" x="1534" y="1206" width="375" height="620" frameX="0" frameY="-8" frameWidth="411" frameHeight="628"/>
+	<SubTexture name="Yellow Meri Up0012" x="1534" y="1206" width="375" height="620" frameX="0" frameY="-8" frameWidth="411" frameHeight="628"/>
+	<SubTexture name="Yellow Meri Up0013" x="1534" y="1206" width="375" height="620" frameX="0" frameY="-8" frameWidth="411" frameHeight="628"/>
+	<SubTexture name="Yellow Meri Up0014" x="1534" y="1206" width="375" height="620" frameX="0" frameY="-8" frameWidth="411" frameHeight="628"/>
+</TextureAtlas>
