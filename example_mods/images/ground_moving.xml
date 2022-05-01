@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ground_moving.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ground 0000" x="0" y="0" width="2895" height="234" frameX="-598" frameY="-6" frameWidth="3493" frameHeight="240"/>
+	<SubTexture name="ground 0001" x="0" y="234" width="2894" height="234" frameX="-152" frameY="-3" frameWidth="3493" frameHeight="240"/>
+	<SubTexture name="ground 0002" x="0" y="0" width="2895" height="234" frameX="0" frameY="0" frameWidth="3493" frameHeight="240"/>
+</TextureAtlas>
